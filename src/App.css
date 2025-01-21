@@ -1,0 +1,38 @@
+.table-container {
+    width: 90%;
+    border: 1px solid #eff1f2;
+    margin: 10px auto;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .pagination-right {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: flex-end;
+    margin-top: 1rem;
+    margin-bottom: 30px;
+  }
+  .mantine-Table-tr {
+    text-align: center;
+  }
+
+  .mantine-Table-th {
+    text-align: center;
+  }
+  .mantine-Table-tbody {
+    text-align: center;
+  }
+  .mantine-Table-td {
+    width: 400px;
+  }
+  .table-heading {
+    text-align: center;
+    margin-top: 0px;
+  }
+  
+  .table-heading {
+    text-align: center;
+    margin-top: 0px;
+  }
